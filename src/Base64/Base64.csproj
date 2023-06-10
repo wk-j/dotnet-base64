@@ -7,7 +7,7 @@
     <Nullable>enable</Nullable>
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>wk-base64</ToolCommandName>
-    <PackageName>wk.Base64</PackageName>
+    <PackageId>wk.Base64</PackageId>
   </PropertyGroup>
 
 </Project>
