@@ -6,7 +6,7 @@ on:
       - "*"
 
 env:
-  PROJECT: Base64
+  PROJECT: Base64Url
 
 jobs:
   build:

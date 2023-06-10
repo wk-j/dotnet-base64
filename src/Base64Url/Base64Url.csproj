@@ -6,8 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackAsTool>true</PackAsTool>
-    <ToolCommandName>wk-base64</ToolCommandName>
-    <PackageId>wk.Base64</PackageId>
+    <ToolCommandName>wk-base64-url</ToolCommandName>
+    <PackageId>wk.Base64Url</PackageId>
   </PropertyGroup>
 
 </Project>
